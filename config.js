@@ -1,0 +1,23 @@
+export const nameBand = 'K-391';
+export let nameSongs = [
+	"EARTH",
+	"DREAM OF SOMETHING SWEET",
+	"SUMMERTIME",
+	"IGNITE",
+	"EVERYBODY",
+	"ELECTRO HOUSE",
+	"NICE TAKEOFF",
+	"ELECTRODE",
+	"MYSTERY",
+	"THIS IS FELICITAS",
+	"WINDOWS",
+	"END OF TIME",
+	"CRAZY BASS",
+	"SKYLINE",
+	"TESLA",
+	"ESCAPE",
+	"DEEP BLUE",
+	"BOOMBOX",
+	"DON'T STOP",
+	"VILDE LIE"
+]
